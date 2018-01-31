@@ -1,0 +1,27 @@
+```------------------- BELOW ARE GENERAL FUNCTIONS---------------
+!help ------------- Displays a list of commands.
+!ping ------------- Pong!
+!whoIsLoser ------- Displays who is a loser in this discord.
+!flip ------------- Coin flip. Heads or tails.
+!d20 -------------- Rolls a d20 die.
+!joke ------------- Tells you a morbid joke!
+!sharkfact -------- Tells you a unique shark fact!
+!goodbot ---------- If Botty did a good job, tell him so!
+!badbot ----------- If Botty made a mistake, let him know!
+!roulette --------- Play Russian Roulette with your friends!
+!pickup ----------- The Bot will attempt to pick you up! ;)
+!uptime ----------- How long this bot has been running.
+
+------------------- BELOW ARE RUNESCAPE FUCNTIONS -------------
+!hiscore (user) --- Will pull up RS3 hiscores for given user.
+					No username means it will search using
+					Discord Name
+!set-rs3 ---------- Sets the rs3 name you wish to use.
+					(does not return)
+
+------------------- BELOW ARE OSRS FUNCTIONS ----------------
+!hiscore-os (user)- Will pull up OSRS hiscores for given user.
+					No username means it will search using
+					Discord Name
+!set-osrs --------- Sets the OSRS name you wish to use. 
+					(does not return)```

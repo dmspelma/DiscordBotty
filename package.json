@@ -1,0 +1,14 @@
+{
+  "name": "BottyMcBotFace",
+  "version": "1.0.1",
+  "description": "Miscellaneous Discord bot",
+  "main": "bot.js",
+  "author": "Drew Spelman",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^11.2.1",
+    "runescape-api": "^1.0.9",
+    "winston": "^2.4.0"
+  }
+}
